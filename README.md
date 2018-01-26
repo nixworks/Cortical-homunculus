@@ -1,2 +1,1 @@
-# Cortical-homunculus
-Корковый гомункул
+# Cortical homunculus | Корковый гомункул
